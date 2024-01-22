@@ -1,0 +1,2 @@
+# coinamatic
+coinamatic laundry machine
